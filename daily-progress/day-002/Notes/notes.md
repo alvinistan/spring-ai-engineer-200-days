@@ -20,3 +20,8 @@ They always return true or false.
 | `<`      | Less Than        |
 | `>=`     | Greater or Equal |
 | `<=`     | Less or Equal    |
+
+## 3. Logical Operators
+
+Used when combining multiple conditions.
+
