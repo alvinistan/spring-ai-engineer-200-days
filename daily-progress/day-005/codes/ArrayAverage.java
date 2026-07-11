@@ -15,3 +15,5 @@ public class ArrayAverage {
         System.out.println("Number of Transcations :" + todaySales.length);
     }
 }
+
+
