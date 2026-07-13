@@ -422,13 +422,6 @@ Output
 
 ```
 true
-
-a == b
-
-The == operator compares the memory references of objects.
-
-a points to the "Java" object in the String Pool.
-b points to a new String object created in heap memory because of new String().
 ```
 
 ---
@@ -477,9 +470,6 @@ Output
 false
 
 true
-
-Because "Java" and "java" have the same letters, but different capitalization.
-It still checks content, not memory reference.
 ```
 
 ---
@@ -862,3 +852,26 @@ Day 007 - Object-Oriented Programming (Classes & Objects)
 
 ---
 
+# GitHub Commit
+
+```bash
+git add .
+
+git commit -m "Day 006: Learned Strings in Java"
+
+git push origin main
+```
+
+---
+
+# Day 006 Checklist
+
+- [ ] Understand String
+- [ ] Learn String methods
+- [ ] Compare Strings correctly
+- [ ] Reverse String
+- [ ] Check Palindrome
+- [ ] Count vowels
+- [ ] Use StringBuilder
+- [ ] Complete assignments
+- [ ] Push to GitHub
