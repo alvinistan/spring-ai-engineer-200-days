@@ -13,6 +13,10 @@ public class student {
         this.studentName = studentName;
 
     }
+
+    public student(int i, String alkanistan, int i1) {
+    }
+
     void display(){
 
         System.out.println("Student ID: " +studentId);
