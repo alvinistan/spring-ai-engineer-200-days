@@ -1,5 +1,3 @@
-package code;
-
 import java.io.File;
 import java.io.IOException;
 
@@ -10,12 +8,6 @@ public class CreateFileDemo {
         try {
             if(file.createNewFile()){
                 System.out.println("File created Successfully..");
-
-                System.out.println(file.exists());
-
-                System.out.println(file.getAbsolutePath());
-
-                System.out.println(file.length());
             } else{
                 System.out.println("File Already Exists");
             }
