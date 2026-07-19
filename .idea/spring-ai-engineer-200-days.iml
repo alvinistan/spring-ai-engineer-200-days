@@ -10,7 +10,6 @@
       <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-005" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-007" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-008" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-009" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-010" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-011" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-012" isTestSource="false" />
@@ -21,6 +20,7 @@
       <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-017" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-018" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-019" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/daily-progress/day-20" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
